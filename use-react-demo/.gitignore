@@ -4,14 +4,12 @@
 /node_modules
 /.pnp
 .pnp.js
-test-report.xml
-.scannerwork
+
 # testing
 /coverage
 
 # production
 /build
-/dist
 
 # misc
 .DS_Store
@@ -23,7 +21,4 @@ test-report.xml
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-node_modules
-.idea
-.iml
 yarn.lock
